@@ -1,0 +1,56 @@
+ .university-container {
+    width: 300px;
+    height: 230px;
+    background-color:#18b3e2;
+    border-radius: 20px;
+  }
+
+  .universities {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 40px;
+    padding: 50px 100px;
+  }
+  
+  .university {
+    display: flex;
+    text-align: center;
+    font-size: large;
+    justify-content: space-around;
+  }
+  
+  .university-country {
+    text-align: center;
+    font-weight: 900;
+    font-size: 60px;
+    color: #1c3cee;
+  }
+  
+  .university-container:hover {
+    background-color: #1c3cee;
+  }
+  
+  .university-name {
+    padding: 6px 6px;
+    color: white;
+    font-size: 21px;    
+  }
+  
+  .link {
+    color: white;
+  }
+  
+  .university-webpage {
+    color: white;
+    font-size: 1.2rem;   
+  }
+  .link-icon {
+    padding-right: 5px;
+    font-size: 1.5rem; 
+  }
+
+  .grad-icon{
+    color: white;
+    font-size: 2rem;
+  }

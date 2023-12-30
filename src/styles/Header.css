@@ -1,0 +1,24 @@
+  .weather {
+    background-color: skyblue;
+    text-align: center;
+  }
+  
+  .location {
+    font-size: 3rem;
+  }
+  
+  .container {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .temp {
+    font-weight: bolder;
+    font-size: 2rem;
+    margin-left: 10px;
+  }
+  
+  .text {
+    font-size: 25px;
+  }
+  
